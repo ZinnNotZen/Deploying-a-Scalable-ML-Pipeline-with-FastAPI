@@ -3,7 +3,8 @@
 A production-style machine learning pipeline that trains a classifier on U.S. Census data and serves predictions through a RESTful API — built with continuous integration (GitHub Actions running pytest + flake8 on every push).
 
 >  **Note:** This is a Udacity course project ("Deploying a Machine Learning Model with FastAPI," used to fulfill a WGU course requirement), forked from the official Udacity starter repository. It focuses on MLOps practices — testing, CI, model cards, and API deployment — more than on model accuracy itself.
-> This repository is public because GitHub does not allow forks to be made private independently of their upstream repo. It is not intended as a "copy my homework" resource — if you're taking this course yourself, please do your own work.
+>
+> **Note:** This repository is public because GitHub does not allow forks to be made private independently of their upstream repo. It is not intended as a "copy my homework" resource — if you're taking this course yourself, please do your own work.
 
 ---
 
